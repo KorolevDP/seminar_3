@@ -71,5 +71,5 @@
 
     git checkout <hash>
 
-## Ветвление в Git
+## Ветвления в Git
 
