@@ -1,6 +1,6 @@
 # Инструкция по работе с Git
 
-![Osiris](https://2.downloader.disk.yandex.ru/preview/f4a46ac19efbadf8d78fb7b0fe0424d0a532b10ec0a0be786d930c464c7a54a8/inf/jXMg9doTQVZPkkPSMZ3WDd4NDoVXUwvCR3gI5_gliRdOtDzLJeIde3KpyH2WOHkbV-sw5DS2rTXfRclouY7RBQ%3D%3D?uid=1742228044&filename=Osiris.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=1742228044&tknv=v2&size=1920x937)
+![Osiris](https://disk.yandex.ru/i/grFVwcAX6kVrAg)
 
 
 ## Создание нового репозитория
