@@ -1,6 +1,6 @@
 # Инструкция по работе с Git
 
-![Osiris](https://disk.yandex.ru/i/grFVwcAX6kVrAg)
+![Osiris] (https://disk.yandex.ru/i/grFVwcAX6kVrAg)
 
 
 ## Создание нового репозитория
